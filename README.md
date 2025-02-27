@@ -1,1 +1,1 @@
-# Line up analysis for basketball
+# Lineup analysis for basketball
