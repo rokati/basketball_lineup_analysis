@@ -1,58 +1,58 @@
-,GROUP_SET_on,TEAM_ID_on,TEAM_ABBREVIATION_on,TEAM_NAME_on,VS_PLAYER_ID,VS_PLAYER_NAME_on,COURT_STATUS_on,GP_on,MIN_on,PLUS_MINUS_on,OFF_RATING_on,DEF_RATING_on,NET_RATING_on,GROUP_SET_off,TEAM_ID_off,TEAM_ABBREVIATION_off,TEAM_NAME_off,VS_PLAYER_NAME_off,COURT_STATUS_off,GP_off,MIN_off,PLUS_MINUS_off,OFF_RATING_off,DEF_RATING_off,NET_RATING_off,NET_RATING_DIFF,OFF_RATING_DIFF,DEF_RATING_DIFF
-0,On/Off Court,1610612737,ATL,Atlanta Hawks,1630180,"Bey, Saddiq",On,63,2062.0,-0.4,118.6,119.1,-0.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bey, Saddiq",Off,82,1909.0,-4.0,111.3,115.1,-3.8,3.3,,
-1,On/Off Court,1610612737,ATL,Atlanta Hawks,203992,"Bogdanović, Bogdan",On,79,2401.0,2.5,116.3,114.4,1.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bogdanović, Bogdan",Off,82,1570.0,-9.4,112.4,120.3,-8.0,9.9,,
-2,On/Off Court,1610612737,ATL,Atlanta Hawks,1641723,"Bufkin, Kobe",On,17,196.0,-8.6,97.1,105.0,-7.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bufkin, Kobe",Off,82,3775.0,-1.8,117.2,118.9,-1.7,-6.2,,
-3,On/Off Court,1610612737,ATL,Atlanta Hawks,203991,"Capela, Clint",On,73,1883.0,-0.4,115.5,115.6,-0.1,On/Off Court,1610612737,ATL,Atlanta Hawks,"Capela, Clint",Off,82,2088.0,-3.7,115.3,118.4,-3.1,3.0,,
-4,On/Off Court,1610612737,ATL,Atlanta Hawks,1628981,"Fernando, Bruno",On,45,682.0,-6.8,107.5,113.9,-6.4,On/Off Court,1610612737,ATL,Atlanta Hawks,"Fernando, Bruno",Off,82,3289.0,-1.2,117.4,118.7,-1.2,-5.2,,
-5,On/Off Court,1610612737,ATL,Atlanta Hawks,1630235,"Forrest, Trent",On,38,414.0,-10.9,103.3,114.3,-11.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Forrest, Trent",Off,82,3557.0,-1.1,117.1,118.3,-1.1,-9.9,,
-6,On/Off Court,1610612737,ATL,Atlanta Hawks,1631100,"Griffin, AJ",On,20,171.0,-14.3,106.0,120.1,-14.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Griffin, AJ",Off,82,3800.0,-1.6,116.6,118.1,-1.4,-12.6,,
-7,On/Off Court,1610612737,ATL,Atlanta Hawks,1631243,"Gueye, Mouhamed",On,6,73.0,-27.0,89.9,115.1,-25.2,On/Off Court,1610612737,ATL,Atlanta Hawks,"Gueye, Mouhamed",Off,82,3898.0,-1.7,116.8,118.4,-1.6,-23.599999999999998,,
-8,On/Off Court,1610612737,ATL,Atlanta Hawks,1629631,"Hunter, De'Andre",On,57,1681.0,-1.4,116.7,117.9,-1.3,On/Off Court,1610612737,ATL,Atlanta Hawks,"Hunter, De'Andre",Off,82,2290.0,-2.7,114.4,117.0,-2.5,1.2,,
-9,On/Off Court,1610612737,ATL,Atlanta Hawks,1630552,"Johnson, Jalen",On,56,1889.0,-1.9,113.3,115.2,-1.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Johnson, Jalen",Off,82,2082.0,-2.4,116.4,118.9,-2.6,0.7000000000000002,,
-10,On/Off Court,1610612737,ATL,Atlanta Hawks,1630249,"Krejčí, Vít",On,22,541.0,0.1,117.4,117.7,-0.3,On/Off Court,1610612737,ATL,Atlanta Hawks,"Krejčí, Vít",Off,55,2129.0,-4.2,113.1,117.0,-3.9,3.6,,
-11,On/Off Court,1610612737,ATL,Atlanta Hawks,1641754,"Lundy, Seth",On,9,52.0,-12.0,102.7,114.4,-11.7,On/Off Court,1610612737,ATL,Atlanta Hawks,"Lundy, Seth",Off,82,3919.0,-2.0,116.5,118.4,-1.9,-9.799999999999999,,
-12,On/Off Court,1610612737,ATL,Atlanta Hawks,1629726,"Mathews, Garrison",On,66,992.0,-4.7,111.8,115.8,-4.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Mathews, Garrison",Off,82,2979.0,-1.3,116.4,117.8,-1.4,-2.6,,
-13,On/Off Court,1610612737,ATL,Atlanta Hawks,202083,"Matthews, Wesley",On,36,413.0,-8.0,109.3,114.9,-5.6,On/Off Court,1610612737,ATL,Atlanta Hawks,"Matthews, Wesley",Off,82,3558.0,-1.5,116.7,118.1,-1.4,-4.199999999999999,,
-14,On/Off Court,1610612737,ATL,Atlanta Hawks,201988,"Mills, Patty",On,19,202.0,-9.3,107.2,115.6,-8.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Mills, Patty",Off,58,2602.0,-1.1,117.9,119.1,-1.1,-7.4,,
-15,On/Off Court,1610612737,ATL,Atlanta Hawks,1627749,"Murray, Dejounte",On,78,2783.0,-2.7,116.8,119.5,-2.7,On/Off Court,1610612737,ATL,Atlanta Hawks,"Murray, Dejounte",Off,82,1188.0,-1.0,111.7,112.5,-0.8,-1.9000000000000001,,
-16,On/Off Court,1610612737,ATL,Atlanta Hawks,1630168,"Okongwu, Onyeka",On,55,1405.0,-1.2,118.1,119.0,-0.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Okongwu, Onyeka",Off,82,2566.0,-2.7,114.1,116.6,-2.5,1.6,,
-17,On/Off Court,1610612737,ATL,Atlanta Hawks,1629685,"Windler, Dylan",On,6,73.0,-15.1,105.9,119.5,-13.6,On/Off Court,1610612737,ATL,Atlanta Hawks,"Windler, Dylan",Off,22,998.0,-0.9,114.5,115.1,-0.5,-13.1,,
-18,On/Off Court,1610612737,ATL,Atlanta Hawks,1629027,"Young, Trae",On,54,1942.0,-2.9,116.6,119.1,-2.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Young, Trae",Off,82,2029.0,-1.5,113.2,115.3,-2.1,-0.3999999999999999,,
-0,On/Off Court,1610612737,ATL,Atlanta Hawks,1630180,"Bey, Saddiq",On,63,2062.0,-0.4,118.6,119.1,-0.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bey, Saddiq",Off,82,1909.0,-4.0,111.3,115.1,-3.8,,7.299999999999997,
-1,On/Off Court,1610612737,ATL,Atlanta Hawks,203992,"Bogdanović, Bogdan",On,79,2401.0,2.5,116.3,114.4,1.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bogdanović, Bogdan",Off,82,1570.0,-9.4,112.4,120.3,-8.0,,3.8999999999999915,
-2,On/Off Court,1610612737,ATL,Atlanta Hawks,1641723,"Bufkin, Kobe",On,17,196.0,-8.6,97.1,105.0,-7.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bufkin, Kobe",Off,82,3775.0,-1.8,117.2,118.9,-1.7,,-20.10000000000001,
-3,On/Off Court,1610612737,ATL,Atlanta Hawks,203991,"Capela, Clint",On,73,1883.0,-0.4,115.5,115.6,-0.1,On/Off Court,1610612737,ATL,Atlanta Hawks,"Capela, Clint",Off,82,2088.0,-3.7,115.3,118.4,-3.1,,0.20000000000000284,
-4,On/Off Court,1610612737,ATL,Atlanta Hawks,1628981,"Fernando, Bruno",On,45,682.0,-6.8,107.5,113.9,-6.4,On/Off Court,1610612737,ATL,Atlanta Hawks,"Fernando, Bruno",Off,82,3289.0,-1.2,117.4,118.7,-1.2,,-9.900000000000006,
-5,On/Off Court,1610612737,ATL,Atlanta Hawks,1630235,"Forrest, Trent",On,38,414.0,-10.9,103.3,114.3,-11.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Forrest, Trent",Off,82,3557.0,-1.1,117.1,118.3,-1.1,,-13.799999999999997,
-6,On/Off Court,1610612737,ATL,Atlanta Hawks,1631100,"Griffin, AJ",On,20,171.0,-14.3,106.0,120.1,-14.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Griffin, AJ",Off,82,3800.0,-1.6,116.6,118.1,-1.4,,-10.599999999999994,
-7,On/Off Court,1610612737,ATL,Atlanta Hawks,1631243,"Gueye, Mouhamed",On,6,73.0,-27.0,89.9,115.1,-25.2,On/Off Court,1610612737,ATL,Atlanta Hawks,"Gueye, Mouhamed",Off,82,3898.0,-1.7,116.8,118.4,-1.6,,-26.89999999999999,
-8,On/Off Court,1610612737,ATL,Atlanta Hawks,1629631,"Hunter, De'Andre",On,57,1681.0,-1.4,116.7,117.9,-1.3,On/Off Court,1610612737,ATL,Atlanta Hawks,"Hunter, De'Andre",Off,82,2290.0,-2.7,114.4,117.0,-2.5,,2.299999999999997,
-9,On/Off Court,1610612737,ATL,Atlanta Hawks,1630552,"Johnson, Jalen",On,56,1889.0,-1.9,113.3,115.2,-1.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Johnson, Jalen",Off,82,2082.0,-2.4,116.4,118.9,-2.6,,-3.1000000000000085,
-10,On/Off Court,1610612737,ATL,Atlanta Hawks,1630249,"Krejčí, Vít",On,22,541.0,0.1,117.4,117.7,-0.3,On/Off Court,1610612737,ATL,Atlanta Hawks,"Krejčí, Vít",Off,55,2129.0,-4.2,113.1,117.0,-3.9,,4.300000000000011,
-11,On/Off Court,1610612737,ATL,Atlanta Hawks,1641754,"Lundy, Seth",On,9,52.0,-12.0,102.7,114.4,-11.7,On/Off Court,1610612737,ATL,Atlanta Hawks,"Lundy, Seth",Off,82,3919.0,-2.0,116.5,118.4,-1.9,,-13.799999999999997,
-12,On/Off Court,1610612737,ATL,Atlanta Hawks,1629726,"Mathews, Garrison",On,66,992.0,-4.7,111.8,115.8,-4.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Mathews, Garrison",Off,82,2979.0,-1.3,116.4,117.8,-1.4,,-4.6000000000000085,
-13,On/Off Court,1610612737,ATL,Atlanta Hawks,202083,"Matthews, Wesley",On,36,413.0,-8.0,109.3,114.9,-5.6,On/Off Court,1610612737,ATL,Atlanta Hawks,"Matthews, Wesley",Off,82,3558.0,-1.5,116.7,118.1,-1.4,,-7.400000000000006,
-14,On/Off Court,1610612737,ATL,Atlanta Hawks,201988,"Mills, Patty",On,19,202.0,-9.3,107.2,115.6,-8.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Mills, Patty",Off,58,2602.0,-1.1,117.9,119.1,-1.1,,-10.700000000000003,
-15,On/Off Court,1610612737,ATL,Atlanta Hawks,1627749,"Murray, Dejounte",On,78,2783.0,-2.7,116.8,119.5,-2.7,On/Off Court,1610612737,ATL,Atlanta Hawks,"Murray, Dejounte",Off,82,1188.0,-1.0,111.7,112.5,-0.8,,5.099999999999994,
-16,On/Off Court,1610612737,ATL,Atlanta Hawks,1630168,"Okongwu, Onyeka",On,55,1405.0,-1.2,118.1,119.0,-0.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Okongwu, Onyeka",Off,82,2566.0,-2.7,114.1,116.6,-2.5,,4.0,
-17,On/Off Court,1610612737,ATL,Atlanta Hawks,1629685,"Windler, Dylan",On,6,73.0,-15.1,105.9,119.5,-13.6,On/Off Court,1610612737,ATL,Atlanta Hawks,"Windler, Dylan",Off,22,998.0,-0.9,114.5,115.1,-0.5,,-8.599999999999994,
-18,On/Off Court,1610612737,ATL,Atlanta Hawks,1629027,"Young, Trae",On,54,1942.0,-2.9,116.6,119.1,-2.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Young, Trae",Off,82,2029.0,-1.5,113.2,115.3,-2.1,,3.3999999999999915,
-0,On/Off Court,1610612737,ATL,Atlanta Hawks,1630180,"Bey, Saddiq",On,63,2062.0,-0.4,118.6,119.1,-0.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bey, Saddiq",Off,82,1909.0,-4.0,111.3,115.1,-3.8,,,4.0
-1,On/Off Court,1610612737,ATL,Atlanta Hawks,203992,"Bogdanović, Bogdan",On,79,2401.0,2.5,116.3,114.4,1.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bogdanović, Bogdan",Off,82,1570.0,-9.4,112.4,120.3,-8.0,,,-5.8999999999999915
-2,On/Off Court,1610612737,ATL,Atlanta Hawks,1641723,"Bufkin, Kobe",On,17,196.0,-8.6,97.1,105.0,-7.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bufkin, Kobe",Off,82,3775.0,-1.8,117.2,118.9,-1.7,,,-13.900000000000006
-3,On/Off Court,1610612737,ATL,Atlanta Hawks,203991,"Capela, Clint",On,73,1883.0,-0.4,115.5,115.6,-0.1,On/Off Court,1610612737,ATL,Atlanta Hawks,"Capela, Clint",Off,82,2088.0,-3.7,115.3,118.4,-3.1,,,-2.8000000000000114
-4,On/Off Court,1610612737,ATL,Atlanta Hawks,1628981,"Fernando, Bruno",On,45,682.0,-6.8,107.5,113.9,-6.4,On/Off Court,1610612737,ATL,Atlanta Hawks,"Fernando, Bruno",Off,82,3289.0,-1.2,117.4,118.7,-1.2,,,-4.799999999999997
-5,On/Off Court,1610612737,ATL,Atlanta Hawks,1630235,"Forrest, Trent",On,38,414.0,-10.9,103.3,114.3,-11.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Forrest, Trent",Off,82,3557.0,-1.1,117.1,118.3,-1.1,,,-4.0
-6,On/Off Court,1610612737,ATL,Atlanta Hawks,1631100,"Griffin, AJ",On,20,171.0,-14.3,106.0,120.1,-14.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Griffin, AJ",Off,82,3800.0,-1.6,116.6,118.1,-1.4,,,2.0
-7,On/Off Court,1610612737,ATL,Atlanta Hawks,1631243,"Gueye, Mouhamed",On,6,73.0,-27.0,89.9,115.1,-25.2,On/Off Court,1610612737,ATL,Atlanta Hawks,"Gueye, Mouhamed",Off,82,3898.0,-1.7,116.8,118.4,-1.6,,,-3.3000000000000114
-8,On/Off Court,1610612737,ATL,Atlanta Hawks,1629631,"Hunter, De'Andre",On,57,1681.0,-1.4,116.7,117.9,-1.3,On/Off Court,1610612737,ATL,Atlanta Hawks,"Hunter, De'Andre",Off,82,2290.0,-2.7,114.4,117.0,-2.5,,,0.9000000000000057
-9,On/Off Court,1610612737,ATL,Atlanta Hawks,1630552,"Johnson, Jalen",On,56,1889.0,-1.9,113.3,115.2,-1.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Johnson, Jalen",Off,82,2082.0,-2.4,116.4,118.9,-2.6,,,-3.700000000000003
-10,On/Off Court,1610612737,ATL,Atlanta Hawks,1630249,"Krejčí, Vít",On,22,541.0,0.1,117.4,117.7,-0.3,On/Off Court,1610612737,ATL,Atlanta Hawks,"Krejčí, Vít",Off,55,2129.0,-4.2,113.1,117.0,-3.9,,,0.7000000000000028
-11,On/Off Court,1610612737,ATL,Atlanta Hawks,1641754,"Lundy, Seth",On,9,52.0,-12.0,102.7,114.4,-11.7,On/Off Court,1610612737,ATL,Atlanta Hawks,"Lundy, Seth",Off,82,3919.0,-2.0,116.5,118.4,-1.9,,,-4.0
-12,On/Off Court,1610612737,ATL,Atlanta Hawks,1629726,"Mathews, Garrison",On,66,992.0,-4.7,111.8,115.8,-4.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Mathews, Garrison",Off,82,2979.0,-1.3,116.4,117.8,-1.4,,,-2.0
-13,On/Off Court,1610612737,ATL,Atlanta Hawks,202083,"Matthews, Wesley",On,36,413.0,-8.0,109.3,114.9,-5.6,On/Off Court,1610612737,ATL,Atlanta Hawks,"Matthews, Wesley",Off,82,3558.0,-1.5,116.7,118.1,-1.4,,,-3.1999999999999886
-14,On/Off Court,1610612737,ATL,Atlanta Hawks,201988,"Mills, Patty",On,19,202.0,-9.3,107.2,115.6,-8.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Mills, Patty",Off,58,2602.0,-1.1,117.9,119.1,-1.1,,,-3.5
-15,On/Off Court,1610612737,ATL,Atlanta Hawks,1627749,"Murray, Dejounte",On,78,2783.0,-2.7,116.8,119.5,-2.7,On/Off Court,1610612737,ATL,Atlanta Hawks,"Murray, Dejounte",Off,82,1188.0,-1.0,111.7,112.5,-0.8,,,7.0
-16,On/Off Court,1610612737,ATL,Atlanta Hawks,1630168,"Okongwu, Onyeka",On,55,1405.0,-1.2,118.1,119.0,-0.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Okongwu, Onyeka",Off,82,2566.0,-2.7,114.1,116.6,-2.5,,,2.4000000000000057
-17,On/Off Court,1610612737,ATL,Atlanta Hawks,1629685,"Windler, Dylan",On,6,73.0,-15.1,105.9,119.5,-13.6,On/Off Court,1610612737,ATL,Atlanta Hawks,"Windler, Dylan",Off,22,998.0,-0.9,114.5,115.1,-0.5,,,4.400000000000006
-18,On/Off Court,1610612737,ATL,Atlanta Hawks,1629027,"Young, Trae",On,54,1942.0,-2.9,116.6,119.1,-2.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Young, Trae",Off,82,2029.0,-1.5,113.2,115.3,-2.1,,,3.799999999999997
+,VS_PLAYER_ID,COURT_STATUS_on,GP_on,MIN_on,PLUS_MINUS_on,OFF_RATING_on,DEF_RATING_on,NET_RATING_on,GROUP_SET,TEAM_ID,TEAM_ABBREVIATION,TEAM_NAME,VS_PLAYER_NAME,COURT_STATUS_off,GP_off,MIN_off,PLUS_MINUS_off,OFF_RATING_off,DEF_RATING_off,NET_RATING_off,NET_RATING_DIFF,OFF_RATING_DIFF,DEF_RATING_DIFF
+0,1630180,On,63,2062.0,-0.4,118.6,119.1,-0.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bey, Saddiq",Off,82,1909.0,-4.0,111.3,115.1,-3.8,3.3,,
+1,203992,On,79,2401.0,2.5,116.3,114.4,1.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bogdanović, Bogdan",Off,82,1570.0,-9.4,112.4,120.3,-8.0,9.9,,
+2,1641723,On,17,196.0,-8.6,97.1,105.0,-7.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bufkin, Kobe",Off,82,3775.0,-1.8,117.2,118.9,-1.7,-6.2,,
+3,203991,On,73,1883.0,-0.4,115.5,115.6,-0.1,On/Off Court,1610612737,ATL,Atlanta Hawks,"Capela, Clint",Off,82,2088.0,-3.7,115.3,118.4,-3.1,3.0,,
+4,1628981,On,45,682.0,-6.8,107.5,113.9,-6.4,On/Off Court,1610612737,ATL,Atlanta Hawks,"Fernando, Bruno",Off,82,3289.0,-1.2,117.4,118.7,-1.2,-5.2,,
+5,1630235,On,38,414.0,-10.9,103.3,114.3,-11.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Forrest, Trent",Off,82,3557.0,-1.1,117.1,118.3,-1.1,-9.9,,
+6,1631100,On,20,171.0,-14.3,106.0,120.1,-14.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Griffin, AJ",Off,82,3800.0,-1.6,116.6,118.1,-1.4,-12.6,,
+7,1631243,On,6,73.0,-27.0,89.9,115.1,-25.2,On/Off Court,1610612737,ATL,Atlanta Hawks,"Gueye, Mouhamed",Off,82,3898.0,-1.7,116.8,118.4,-1.6,-23.599999999999998,,
+8,1629631,On,57,1681.0,-1.4,116.7,117.9,-1.3,On/Off Court,1610612737,ATL,Atlanta Hawks,"Hunter, De'Andre",Off,82,2290.0,-2.7,114.4,117.0,-2.5,1.2,,
+9,1630552,On,56,1889.0,-1.9,113.3,115.2,-1.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Johnson, Jalen",Off,82,2082.0,-2.4,116.4,118.9,-2.6,0.7000000000000002,,
+10,1630249,On,22,541.0,0.1,117.4,117.7,-0.3,On/Off Court,1610612737,ATL,Atlanta Hawks,"Krejčí, Vít",Off,55,2129.0,-4.2,113.1,117.0,-3.9,3.6,,
+11,1641754,On,9,52.0,-12.0,102.7,114.4,-11.7,On/Off Court,1610612737,ATL,Atlanta Hawks,"Lundy, Seth",Off,82,3919.0,-2.0,116.5,118.4,-1.9,-9.799999999999999,,
+12,1629726,On,66,992.0,-4.7,111.8,115.8,-4.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Mathews, Garrison",Off,82,2979.0,-1.3,116.4,117.8,-1.4,-2.6,,
+13,202083,On,36,413.0,-8.0,109.3,114.9,-5.6,On/Off Court,1610612737,ATL,Atlanta Hawks,"Matthews, Wesley",Off,82,3558.0,-1.5,116.7,118.1,-1.4,-4.199999999999999,,
+14,201988,On,19,202.0,-9.3,107.2,115.6,-8.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Mills, Patty",Off,58,2602.0,-1.1,117.9,119.1,-1.1,-7.4,,
+15,1627749,On,78,2783.0,-2.7,116.8,119.5,-2.7,On/Off Court,1610612737,ATL,Atlanta Hawks,"Murray, Dejounte",Off,82,1188.0,-1.0,111.7,112.5,-0.8,-1.9000000000000001,,
+16,1630168,On,55,1405.0,-1.2,118.1,119.0,-0.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Okongwu, Onyeka",Off,82,2566.0,-2.7,114.1,116.6,-2.5,1.6,,
+17,1629685,On,6,73.0,-15.1,105.9,119.5,-13.6,On/Off Court,1610612737,ATL,Atlanta Hawks,"Windler, Dylan",Off,22,998.0,-0.9,114.5,115.1,-0.5,-13.1,,
+18,1629027,On,54,1942.0,-2.9,116.6,119.1,-2.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Young, Trae",Off,82,2029.0,-1.5,113.2,115.3,-2.1,-0.3999999999999999,,
+0,1630180,On,63,2062.0,-0.4,118.6,119.1,-0.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bey, Saddiq",Off,82,1909.0,-4.0,111.3,115.1,-3.8,,7.299999999999997,
+1,203992,On,79,2401.0,2.5,116.3,114.4,1.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bogdanović, Bogdan",Off,82,1570.0,-9.4,112.4,120.3,-8.0,,3.8999999999999915,
+2,1641723,On,17,196.0,-8.6,97.1,105.0,-7.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bufkin, Kobe",Off,82,3775.0,-1.8,117.2,118.9,-1.7,,-20.10000000000001,
+3,203991,On,73,1883.0,-0.4,115.5,115.6,-0.1,On/Off Court,1610612737,ATL,Atlanta Hawks,"Capela, Clint",Off,82,2088.0,-3.7,115.3,118.4,-3.1,,0.20000000000000284,
+4,1628981,On,45,682.0,-6.8,107.5,113.9,-6.4,On/Off Court,1610612737,ATL,Atlanta Hawks,"Fernando, Bruno",Off,82,3289.0,-1.2,117.4,118.7,-1.2,,-9.900000000000006,
+5,1630235,On,38,414.0,-10.9,103.3,114.3,-11.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Forrest, Trent",Off,82,3557.0,-1.1,117.1,118.3,-1.1,,-13.799999999999997,
+6,1631100,On,20,171.0,-14.3,106.0,120.1,-14.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Griffin, AJ",Off,82,3800.0,-1.6,116.6,118.1,-1.4,,-10.599999999999994,
+7,1631243,On,6,73.0,-27.0,89.9,115.1,-25.2,On/Off Court,1610612737,ATL,Atlanta Hawks,"Gueye, Mouhamed",Off,82,3898.0,-1.7,116.8,118.4,-1.6,,-26.89999999999999,
+8,1629631,On,57,1681.0,-1.4,116.7,117.9,-1.3,On/Off Court,1610612737,ATL,Atlanta Hawks,"Hunter, De'Andre",Off,82,2290.0,-2.7,114.4,117.0,-2.5,,2.299999999999997,
+9,1630552,On,56,1889.0,-1.9,113.3,115.2,-1.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Johnson, Jalen",Off,82,2082.0,-2.4,116.4,118.9,-2.6,,-3.1000000000000085,
+10,1630249,On,22,541.0,0.1,117.4,117.7,-0.3,On/Off Court,1610612737,ATL,Atlanta Hawks,"Krejčí, Vít",Off,55,2129.0,-4.2,113.1,117.0,-3.9,,4.300000000000011,
+11,1641754,On,9,52.0,-12.0,102.7,114.4,-11.7,On/Off Court,1610612737,ATL,Atlanta Hawks,"Lundy, Seth",Off,82,3919.0,-2.0,116.5,118.4,-1.9,,-13.799999999999997,
+12,1629726,On,66,992.0,-4.7,111.8,115.8,-4.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Mathews, Garrison",Off,82,2979.0,-1.3,116.4,117.8,-1.4,,-4.6000000000000085,
+13,202083,On,36,413.0,-8.0,109.3,114.9,-5.6,On/Off Court,1610612737,ATL,Atlanta Hawks,"Matthews, Wesley",Off,82,3558.0,-1.5,116.7,118.1,-1.4,,-7.400000000000006,
+14,201988,On,19,202.0,-9.3,107.2,115.6,-8.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Mills, Patty",Off,58,2602.0,-1.1,117.9,119.1,-1.1,,-10.700000000000003,
+15,1627749,On,78,2783.0,-2.7,116.8,119.5,-2.7,On/Off Court,1610612737,ATL,Atlanta Hawks,"Murray, Dejounte",Off,82,1188.0,-1.0,111.7,112.5,-0.8,,5.099999999999994,
+16,1630168,On,55,1405.0,-1.2,118.1,119.0,-0.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Okongwu, Onyeka",Off,82,2566.0,-2.7,114.1,116.6,-2.5,,4.0,
+17,1629685,On,6,73.0,-15.1,105.9,119.5,-13.6,On/Off Court,1610612737,ATL,Atlanta Hawks,"Windler, Dylan",Off,22,998.0,-0.9,114.5,115.1,-0.5,,-8.599999999999994,
+18,1629027,On,54,1942.0,-2.9,116.6,119.1,-2.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Young, Trae",Off,82,2029.0,-1.5,113.2,115.3,-2.1,,3.3999999999999915,
+0,1630180,On,63,2062.0,-0.4,118.6,119.1,-0.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bey, Saddiq",Off,82,1909.0,-4.0,111.3,115.1,-3.8,,,4.0
+1,203992,On,79,2401.0,2.5,116.3,114.4,1.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bogdanović, Bogdan",Off,82,1570.0,-9.4,112.4,120.3,-8.0,,,-5.8999999999999915
+2,1641723,On,17,196.0,-8.6,97.1,105.0,-7.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Bufkin, Kobe",Off,82,3775.0,-1.8,117.2,118.9,-1.7,,,-13.900000000000006
+3,203991,On,73,1883.0,-0.4,115.5,115.6,-0.1,On/Off Court,1610612737,ATL,Atlanta Hawks,"Capela, Clint",Off,82,2088.0,-3.7,115.3,118.4,-3.1,,,-2.8000000000000114
+4,1628981,On,45,682.0,-6.8,107.5,113.9,-6.4,On/Off Court,1610612737,ATL,Atlanta Hawks,"Fernando, Bruno",Off,82,3289.0,-1.2,117.4,118.7,-1.2,,,-4.799999999999997
+5,1630235,On,38,414.0,-10.9,103.3,114.3,-11.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Forrest, Trent",Off,82,3557.0,-1.1,117.1,118.3,-1.1,,,-4.0
+6,1631100,On,20,171.0,-14.3,106.0,120.1,-14.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Griffin, AJ",Off,82,3800.0,-1.6,116.6,118.1,-1.4,,,2.0
+7,1631243,On,6,73.0,-27.0,89.9,115.1,-25.2,On/Off Court,1610612737,ATL,Atlanta Hawks,"Gueye, Mouhamed",Off,82,3898.0,-1.7,116.8,118.4,-1.6,,,-3.3000000000000114
+8,1629631,On,57,1681.0,-1.4,116.7,117.9,-1.3,On/Off Court,1610612737,ATL,Atlanta Hawks,"Hunter, De'Andre",Off,82,2290.0,-2.7,114.4,117.0,-2.5,,,0.9000000000000057
+9,1630552,On,56,1889.0,-1.9,113.3,115.2,-1.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Johnson, Jalen",Off,82,2082.0,-2.4,116.4,118.9,-2.6,,,-3.700000000000003
+10,1630249,On,22,541.0,0.1,117.4,117.7,-0.3,On/Off Court,1610612737,ATL,Atlanta Hawks,"Krejčí, Vít",Off,55,2129.0,-4.2,113.1,117.0,-3.9,,,0.7000000000000028
+11,1641754,On,9,52.0,-12.0,102.7,114.4,-11.7,On/Off Court,1610612737,ATL,Atlanta Hawks,"Lundy, Seth",Off,82,3919.0,-2.0,116.5,118.4,-1.9,,,-4.0
+12,1629726,On,66,992.0,-4.7,111.8,115.8,-4.0,On/Off Court,1610612737,ATL,Atlanta Hawks,"Mathews, Garrison",Off,82,2979.0,-1.3,116.4,117.8,-1.4,,,-2.0
+13,202083,On,36,413.0,-8.0,109.3,114.9,-5.6,On/Off Court,1610612737,ATL,Atlanta Hawks,"Matthews, Wesley",Off,82,3558.0,-1.5,116.7,118.1,-1.4,,,-3.1999999999999886
+14,201988,On,19,202.0,-9.3,107.2,115.6,-8.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Mills, Patty",Off,58,2602.0,-1.1,117.9,119.1,-1.1,,,-3.5
+15,1627749,On,78,2783.0,-2.7,116.8,119.5,-2.7,On/Off Court,1610612737,ATL,Atlanta Hawks,"Murray, Dejounte",Off,82,1188.0,-1.0,111.7,112.5,-0.8,,,7.0
+16,1630168,On,55,1405.0,-1.2,118.1,119.0,-0.9,On/Off Court,1610612737,ATL,Atlanta Hawks,"Okongwu, Onyeka",Off,82,2566.0,-2.7,114.1,116.6,-2.5,,,2.4000000000000057
+17,1629685,On,6,73.0,-15.1,105.9,119.5,-13.6,On/Off Court,1610612737,ATL,Atlanta Hawks,"Windler, Dylan",Off,22,998.0,-0.9,114.5,115.1,-0.5,,,4.400000000000006
+18,1629027,On,54,1942.0,-2.9,116.6,119.1,-2.5,On/Off Court,1610612737,ATL,Atlanta Hawks,"Young, Trae",Off,82,2029.0,-1.5,113.2,115.3,-2.1,,,3.799999999999997
