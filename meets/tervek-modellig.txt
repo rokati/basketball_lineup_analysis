@@ -1,0 +1,22 @@
+Alexa:
+ - Teljes lineupVSlinup -> azonos csapatok játékait mergelni ->Team A + Team B (2-4 meccs egy szezonban) -> duration sum, boxscore statok is sum
+ - Data cleaning: eldobni a lineupVslineup ha duration < 25 || (vagy &) at least 3 non-NaN stats (vagy legalább egy dobás)
+ 
+Optional:
+ - Umap -> score (PCA)
+ - Clustering: valahány cluster -> meg kéne nézni adott cluster milyen tipusu lineup (pl 3 pontos dobók) -> app-hoz meg modellhez is akár
+🧬 Clustering or Similarity Models
+Cluster lineups by style or impact
+  - Measure similarity between lineups
+  - Build a retrieval system: “For this home_lineup, find the most contrasting away_lineups from different clusters”
+  - But unsupervised won’t help you rank or predict performance, just group by play style or stats. It’s more useful for exploration than prediction.
+
+Anna:
+ - target: súlyozott összeg (pl 2*pont, 0.5*ast,.. -1*turnover) normalizálni -> home - away  -> net score -> EZ LESZ EDGE WEIGHT
+ - Edge featurek: line vs lineup adatok (given)
+ - node feature: lienup statok seasonre (nba_api)
+ - directed graph, nyil a nagyobb score felé és létezik él ha játszodtak egymás ellen
+
+Ati:
+ - modell: some GNN
+ - GNN Model Task: Edge Regression
