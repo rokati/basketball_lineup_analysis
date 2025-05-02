@@ -2,3 +2,4 @@
 .conda
 lightning_logs
 wandb
+nba_lineup_prediction
