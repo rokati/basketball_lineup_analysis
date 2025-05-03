@@ -6,6 +6,8 @@ import numpy as np
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 from sklearn.metrics import roc_curve, auc
 from torchmetrics import Accuracy, F1Score, Precision, Recall, AUROC
+import networkx as nx
+from torch_geometric.utils import to_networkx
 
 # Perform t-SNE on the node embeddings
 def visualize_embeddings_tsne(node_embeddings, labels=None, random_seed=42):
@@ -39,6 +41,14 @@ def visualize_embeddings_umap(node_embeddings, labels=None, random_seed=42):
     plt.title('UMAP Visualization of Node Embeddings')
     plt.xlabel('UMAP Dimension 1')
     plt.ylabel('UMAP Dimension 2')
+    plt.show()
+
+def visualize_whole_graph(data):
+    G = to_networkx(data, to_undirected=True, node_attrs=['x'], edge_attrs=['edge_attr'])
+    plt.figure(figsize=(12, 12))
+    pos = nx.spring_layout(G, seed=42)  # Use spring layout for visualization
+    nx.draw(G, pos, with_labels=False, node_size=20, alpha=0.7, edge_color='gray')
+    plt.title('Graph Visualization')
     plt.show()
 
 def evaluate_model(model, test_data, random_seed=42):
