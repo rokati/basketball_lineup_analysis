@@ -110,5 +110,5 @@ def evaluate_model(model, test_data, random_seed=42):
     plt.show()
 
     # Visualize embeddings using t-SNE and UMAP
-    visualize_embeddings_tsne(node_emb, labels=edge_label.cpu().numpy(), random_seed=random_seed)
-    visualize_embeddings_umap(node_emb, labels=edge_label.cpu().numpy(), random_seed=random_seed)
+    visualize_embeddings_tsne(node_emb, random_seed=random_seed)
+    visualize_embeddings_umap(node_emb, random_seed=random_seed)
