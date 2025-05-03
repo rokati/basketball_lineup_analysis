@@ -1,5 +1,8 @@
 .venv
 .conda
+
+__pycache__
+
 lightning_logs
 wandb
 nba_lineup_prediction
