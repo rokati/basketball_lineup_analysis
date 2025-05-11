@@ -6,7 +6,8 @@ from torch_geometric.data import Data
 
 def create_lineup_graph(df, pre_df, pre_player_stats_df):
     pre_df.fillna(0, inplace=True)
-    df.dropna(subset=['net_score'], inplace=True)
+    # df.dropna(subset=['net_score'], inplace=True)
+    df = df.fillna(0)
     df = df[~df['net_score'].isin([np.inf, -np.inf])]
 
     all_lineups = pd.concat([df['home_lineup'], df['away_lineup']]).unique()
