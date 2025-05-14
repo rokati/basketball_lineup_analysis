@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import pytorch_lightning as pl
-from torch_geometric.nn import GINEConv
+from torch_geometric.nn import GINEConv, GINConv
 from torchmetrics import Accuracy, AUROC
 
 class GNNModel(nn.Module):
